@@ -26,7 +26,7 @@ The inclusion of these patterns serves as examples of different implementation s
 * Java21
 * Docker
 
-Once you have them and you have cloned the project, run `gradle build`.
+Once you have them and you have cloned the project, run `./gradlew build`.
 
 Then run the Docker container using `docker-compose up --build`
 
